@@ -21,6 +21,7 @@ __pycache__/
 *.py[cod]
 backend/**/database/
 *.db
+backend/classroom-occupancy-detector/.git-nested-backup/
 
 # Editor directories and files
 .vscode/*
